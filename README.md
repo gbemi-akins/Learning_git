@@ -1,6 +1,6 @@
 # Learning_git
 
-Th-is my attempt on learninghow git hub works
+This is my attempt to learn how git hub works
 
 
 yay
